@@ -4,6 +4,8 @@ description: Lecture handout.
 file: /courses/11-952-foshan-china-workshop-spring-2004/78175101d31f4ae9ad3ebab006e69264_foshan_today.pdf
 file_size: 86110
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

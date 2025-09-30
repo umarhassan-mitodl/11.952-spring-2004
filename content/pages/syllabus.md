@@ -31,9 +31,9 @@ The MIT Foshan Planning Workshop focuses on applying the principles of sustainab
 
 ## Introduction
 
-In the winter and spring of 2004, Massachusetts Institute of Technology (MIT) Department of Urban Studies and Planning students participated in a graduate planning workshop on the {{% resource_link "158e5820-c0be-4ffa-84b3-234b697dcc47" "Foshan" %}}, China.
+In the winter and spring of 2004, Massachusetts Institute of Technology (MIT) Department of Urban Studies and Planning students participated in a graduate planning workshop on the [Foshan](https://web.archive.org/web/20040929040552/http://www.foshan.gov.cn/english/), China.
 
-This workshop is intended to complement the master planning work conducted by {{% resource_link "601e380e-d4ee-4a98-a116-14e06d431a47" "Sasaki Associates" %}} (Watertown, Massachusetts) in Foshan. We were sponsored by Margie Yang and {{% resource_link "a5224d2f-5a6d-4b32-90f4-917f1227e66d" "The Esquel Group" %}}, a leading garment and textile manufacturer that is headquartered in Hong Kong and has a large presence in Foshan.
+This workshop is intended to complement the master planning work conducted by [Sasaki Associates](http://www.sasaki.com/) (Watertown, Massachusetts) in Foshan. We were sponsored by Margie Yang and [The Esquel Group](http://www.esquel.com/), a leading garment and textile manufacturer that is headquartered in Hong Kong and has a large presence in Foshan.
 
 ## Workshop Process
 
@@ -59,6 +59,6 @@ Finally, the Pearl River Delta region (also comprising Hong Kong, Guangzhou, and
 
 ## Workshop Output
 
-At the conclusion of the workshop, the students published a Web site and a series of posters that presented both urban design alternatives for the South Bank and Waterfront areas. These products are enhanced by implementation strategies, policy guidelines, and suggested phasing. The {{% resource_link "4878d869-139c-48be-841a-06eb17d1daff" "case studies" %}} which informed much of these recommendations can also be found on the Web site, as well as links to additional {{% resource_link "ad497f1f-85eb-4fa8-9534-df4ec7a18cd6" "resources" %}} for future reference. The students and faculty of the workshop strongly hope that this work will be useful and helpful to the planning officials in Foshan as they continue to move forward.
+At the conclusion of the workshop, the students published a Web site and a series of posters that presented both urban design alternatives for the South Bank and Waterfront areas. These products are enhanced by implementation strategies, policy guidelines, and suggested phasing. The [case studies](https://mitsloan.mit.edu/LearningEdge/) which informed much of these recommendations can also be found on the Web site, as well as links to additional [resources](https://mitsloan.mit.edu/LearningEdge/Pages/default.aspx) for future reference. The students and faculty of the workshop strongly hope that this work will be useful and helpful to the planning officials in Foshan as they continue to move forward.
 
 The students of the Foshan workshop would like to extend their deepest gratitude to the Esquel Group for supporting the research and being our hosts while in China, as well as to the numerous experts who contributed their time during the course of the semester. Finally, many thanks to our esteemed professors and instructors, Tunney Lee, Yu-Hung Hong, Wallace Ping Hung Chang, Joe Chow and Bonnie Campbell.

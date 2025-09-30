@@ -5,6 +5,8 @@ description: This lecture handout contains a development proposal for Sacramento
 file: /courses/11-952-foshan-china-workshop-spring-2004/0cdd2e010b0f3c37eb99eaf1ff358980_case_study.pdf
 file_size: 78877
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

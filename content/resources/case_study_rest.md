@@ -4,6 +4,8 @@ description: This lecture handout contains a development proposal for Fuzhou, Ch
 file: /courses/11-952-foshan-china-workshop-spring-2004/021acac6e7e106504d507925495b44d8_case_study_rest.pdf
 file_size: 73085
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
