@@ -6,8 +6,6 @@ description: Student presentation courtesy of Ursula Hester, Holly Krambeck, Ale
 file: /courses/11-952-foshan-china-workshop-spring-2004/fb19b23a5cda2cacf7e2ddd2578bc0cc_midterm8_prog3.pdf
 file_size: 165513
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

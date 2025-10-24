@@ -5,8 +5,6 @@ description: Student presentation courtesy of Ursula Hester, Holly Krambeck and 
 file: /courses/11-952-foshan-china-workshop-spring-2004/5ff3c0e9730abcb502b64ce24b4a54ec_transportation1.pdf
 file_size: 350261
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

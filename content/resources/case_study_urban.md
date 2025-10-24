@@ -4,8 +4,6 @@ description: This lecture handout contains a development proposal for Singapore.
 file: /courses/11-952-foshan-china-workshop-spring-2004/ce4c9230f08177aac07cdce0c56e0434_case_study_urban.pdf
 file_size: 79341
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
